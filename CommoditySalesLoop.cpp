@@ -90,6 +90,7 @@ int main()
 	// Exclude exit transaction (-99 0)
 	numTransactions--;
 
+	// Final report calcuations
 	avgRevenue = totalRevenue / numTransactions;
 	avgUnitsPerOrder = soldUnits / numTransactions;
 
