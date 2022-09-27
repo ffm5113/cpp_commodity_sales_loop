@@ -102,10 +102,12 @@ int main()
 		<< right << setw(transactionColumnLength + 1)
 		<< numTransactions << endl
 
+		// Make sold units appear as int
 		<< left << setw(FIRST_COL_WIDTH) << setprecision(0)
 		<< "Number of units sold:" << right
 		<< setw(transactionColumnLength + 1) << soldUnits << endl
 
+		// Reset double precision to 2
 		<< left << setw(FIRST_COL_WIDTH) << setprecision(2)
 		<< "Average units per transaction:" << right
 		<< setw(transactionColumnLength + 1) << avgUnitsPerOrder << endl
