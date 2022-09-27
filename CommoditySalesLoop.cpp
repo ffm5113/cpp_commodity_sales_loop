@@ -4,7 +4,6 @@
 
 #include <iostream> // To use cin/cout
 #include <iomanip> // To access setw for output width
-#include <cmath> // Access power function for calculations
 #include <string> // String library to access to_string
 using namespace std;
 
