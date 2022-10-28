@@ -4,3 +4,5 @@ This Commodity Sales Loop program (C++) allows the user to enter the number of u
 If the user enters the escape numbers -99 0, the loop exits.
 
 Link to .cpp file: <a href="https://github.com/ffm5113/cpp_commodity_sales_loop/blob/main/CommoditySalesLoop.cpp">Commodity Sales Loop C++ Program</a>
+
+Copyright (c) 2022 ffm5113
